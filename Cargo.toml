@@ -10,7 +10,3 @@ repository = "https://github.com/Frostie314159/ether-type"
 
 [dependencies]
 macro-bits = "0.1.4"
-
-[features]
-debug = []
-default = ["debug"]
