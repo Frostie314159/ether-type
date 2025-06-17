@@ -11,6 +11,7 @@ serializable_enum! {
         IPv4 => 0x0800,
         ARP => 0x0806,
         WoLAN => 0x0842,
-        IPv6 => 0x86DD
+        IPv6 => 0x86DD,
+        Eapol => 0x888e
     }
 }
