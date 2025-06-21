@@ -1,5 +1,4 @@
 #![no_std]
-#![feature(more_qualified_paths)]
 
 use macro_bits::serializable_enum;
 
